@@ -33,6 +33,9 @@
   ⌞ Bootstrap 快速搭建響應式網頁 + SCSS 管理表格樣式。 <BR>
   ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上<BR>
   ⌞ 結合 Google Map Api 將資料標記在地圖上。<BR>
+  
+- <a   ⌞ href="http://ternchen.000webhostapp.com/BMI/" target="_blank"><B>健康小檢驗-算算 BMI </B> (RWD)</a> <BR>
+  ⌞ 透過 Javascript 實現數學計算、並擁有 Todo-list 的基本功能(新增、完成與刪除事件) <BR>
 
 - <a href="http://ternchen.000webhostapp.com/Holiday/index.html" target="_blank"><B>連假攻略</B></a> <BR>
   ⌞ 使用 css3 + jquery 製作動畫效果，並將時間轉換成 timeStamp ，待時間到圓圈便會自動轉向。 <BR> 
