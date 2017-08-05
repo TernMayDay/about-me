@@ -9,9 +9,9 @@
 ### 專業技能
 - 使用 photoshop、illustrator、sketch 進行視覺流程製作，佐以 zeplin 輔助 sublime 切版。
 - 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
-- 使用 Bootstrap 快速開發響應式網。頁
+- 使用 Bootstrap 快速開發響應式網頁。
 - 使用 SCSS 管理網頁版型。
-- 了解 Javascript 基本語法，並使用 Jquery / CSS3 呈現網頁動態效果，進而達到與使用者之間的互動與回饋。
+- 了解 Javascript 基本語法，並使用 Jquery / CSS3 呈現網頁動態效果。
 - 利用 AJAX 撈取遠端JSON資料並顯示在網頁上
 - 介接第三方 API 設計 SPA 頁面 (Google Map、Open Data 等等)
 - 了解 Git / Github 與基本指令運用
@@ -41,6 +41,13 @@
   ⌞ 繪製手機 / 桌機視覺樣式<BR>
   ⌞ 將 PSD 切成 RWD 佐以 Jquery 呈現動態效果轉換<BR>
 
+- 龜山迎曙光 <a href="http://www.yilan.ehrhotel.com/act/2016_Greet_Dawn/" target="_blank">前往</a><BR>
+  ⌞ 繪製手機 / 桌機視覺樣式<BR>
+  ⌞ 使用 css3 + jquery 製作動態效果<BR>
+
+- 情人節們 <a href="http://www.yangmei.ehrhotel.com/act/2016_Lovers/" target="_blank">前往</a><BR>
+  ⌞ css3 + jquery 呈現動畫&轉場效果。 <BR>
+
 - 保貼 EDM <a href="http://ternchen.hol.es/Edm_2016.08/" target="_blank">前往</a><BR>
    這是一個很有趣的切版，為了可以將信件完整呈現到客戶眼裡，使用了table與大量的style撰寫。<BR>
    也符合大多數郵件信箱可以收看的樣子。<BR>
@@ -48,13 +55,6 @@
 - 時尚俏媽咪 <a href="https://mamaclub.com/learn/collection/prettymom/" target="_blank">前往</a><BR>
   ⌞ 使用 wordpress 開空的站台，搭配 Git 於本機製作，最後上至正式機。<BR>
   ⌞ SCSS 管理網頁版型，佐以 Jqery 呈現動態效果。<BR>
-   
-- 龜山迎曙光 <a href="http://www.yilan.ehrhotel.com/act/2016_Greet_Dawn/" target="_blank">前往</a><BR>
-  ⌞ 繪製手機 / 桌機視覺樣式<BR>
-  ⌞ 使用 css3 + jquery 製作動態效果<BR>
-
-- 情人節們 <a href="http://www.yangmei.ehrhotel.com/act/2016_Lovers/" target="_blank">前往</a><BR>
-  ⌞ css3 + jquery 呈現動畫&轉場效果。 <BR>
 
 
 
