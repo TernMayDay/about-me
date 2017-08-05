@@ -25,11 +25,11 @@
 <hr>
 
 ### 作品集 
-- 高雄旅遊資訊 <a href="http://ternchen.000webhostapp.com/Travel/index.html" target="_blank">前往</a><BR>
+- 高雄旅遊資訊(RWD) <a href="http://ternchen.000webhostapp.com/Travel/index.html" target="_blank">前往</a><BR>
   ⌞ Bootstrap 搭配 SCSS 快速搭建響應式網頁。 <BR>
   ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上。<BR>
 
-- 颱風防災資訊平台 <a href="https://ternmayday.github.io/NESAT_nine/" target="_blank">前往</a><BR>
+- 颱風防災資訊平台(RWD) <a href="https://ternmayday.github.io/NESAT_nine/" target="_blank">前往</a><BR>
   ⌞ Bootstrap 快速搭建響應式網頁 + SCSS 管理表格樣式。 <BR>
   ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上<BR>
   ⌞ 結合 Google Map Api 將資料標記在地圖上。<BR>
@@ -37,22 +37,22 @@
 - 連假攻略  <a href="http://ternchen.000webhostapp.com/Holiday/index.html" target="_blank">前往</a> <BR>
   ⌞ 使用 css3 + jquery 製作動畫效果，並將時間轉換成 timeStamp ，待時間到圓圈便會自動轉向。 <BR> 
 
-- 新立方首頁  <a href="http://ternchen.hol.es/cue_index/" target="_blank">前往</a><BR>
+- 新立方首頁(RWD)  <a href="http://ternchen.hol.es/cue_index/" target="_blank">前往</a><BR>
   ⌞ 繪製手機 / 桌機視覺樣式<BR>
   ⌞ 將 PSD 切成 RWD 佐以 Jquery 呈現動態效果轉換<BR>
 
-- 龜山迎曙光 <a href="http://www.yilan.ehrhotel.com/act/2016_Greet_Dawn/" target="_blank">前往</a><BR>
+- 龜山迎曙光(RWD) <a href="http://www.yilan.ehrhotel.com/act/2016_Greet_Dawn/" target="_blank">前往</a><BR>
   ⌞ 繪製手機 / 桌機視覺樣式<BR>
   ⌞ 使用 css3 + jquery 製作動態效果<BR>
 
 - 情人節們 <a href="http://www.yangmei.ehrhotel.com/act/2016_Lovers/" target="_blank">前往</a><BR>
   ⌞ css3 + jquery 呈現動畫&轉場效果。 <BR>
 
-- 保貼 EDM <a href="http://ternchen.hol.es/Edm_2016.08/" target="_blank">前往</a><BR>
+- 保貼 EDM (RWD) <a href="http://ternchen.hol.es/Edm_2016.08/" target="_blank">前往</a><BR>
    這是一個很有趣的切版，為了可以將信件完整呈現到客戶眼裡，使用了table與大量的style撰寫。<BR>
    也符合大多數郵件信箱可以收看的樣子。<BR>
 
-- 時尚俏媽咪 <a href="https://mamaclub.com/learn/collection/prettymom/" target="_blank">前往</a><BR>
+- 時尚俏媽咪(RWD) <a href="https://mamaclub.com/learn/collection/prettymom/" target="_blank">前往</a><BR>
   ⌞ 使用 wordpress 開空的站台，搭配 Git 於本機製作，最後上至正式機。<BR>
   ⌞ SCSS 管理網頁版型，佐以 Jqery 呈現動態效果。<BR>
 
