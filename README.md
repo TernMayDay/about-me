@@ -49,7 +49,7 @@
   ⌞ css3 + jquery 呈現動畫&轉場效果。 <BR>
 
 - <a href="http://ternchen.hol.es/Edm_2016.08/" target="_blank"><B>保貼 EDM</B> (RWD)</a> <BR>
-   這是一個很有趣的切版，為了可以將信件完整呈現到客戶眼裡，使用了table與大量的style撰寫。<BR>
+   為了可以將信件完整呈現到客戶眼裡，使用了table與大量的style撰寫。<BR>
    也符合大多數郵件信箱可以收看的樣子。<BR>
 
 - <a href="https://mamaclub.com/learn/collection/prettymom/" target="_blank"><B>時尚俏媽咪</B> (RWD)</a> <BR>
